@@ -1,5 +1,3 @@
-Here's a README for the **Stock Photo Generator** project with a **Spring Boot** and **Spring AI** backend and a **React** frontend. Following the README, there’s also a concise description for adding to your resume.
-
 # Stock Photo Generator
 
 This project is a **Stock Photo Generator** that uses **Spring Boot** and **Spring AI** to generate high-quality, AI-driven stock photos based on user prompts. The frontend, built with **React**, allows users to input text descriptions and view or download the generated images.
