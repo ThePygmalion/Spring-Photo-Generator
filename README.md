@@ -1,4 +1,4 @@
-# Stock Photo Generator
+# Spring Photo Generator
 
 This project is a **Stock Photo Generator** that uses **Spring Boot** and **Spring AI** to generate high-quality, AI-driven stock photos based on user prompts. The frontend, built with **React**, allows users to input text descriptions and view or download the generated images.
 
